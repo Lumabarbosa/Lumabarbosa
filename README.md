@@ -2,22 +2,20 @@
 
 Olá!
 
-Atualmente estou me aprofundando no mundo do desenvolvimento web, estudando JavaScript, HTML e CSS. Além disso, já participei de diversos projetos que envolviam outras linguagens e tecnologias. Embora eu tenha uma queda especial pelo desenvolvimento back-end, estou sempre ansioso para aprender mais e expandir meus conhecimentos.
+Atualmente estou me aprofundando no mundo do desenvolvimento web, estudando SQL, Oracle, Python. Além disso, já participei de diversos projetos que envolviam outras linguagens e tecnologias. Embora eu tenha uma identificação especial pelo desenvolvimento back-end e SQL, estou sempre ansiosa para aprender mais e expandir meus conhecimentos.
 
 ## O que você encontrará aqui
 
 Este repositório é um espaço onde compartilho meus projetos, experimentos e aprendizados. Aqui você pode esperar encontrar:
 
-- **Projetos Web:** Aplicações e experimentos desenvolvidos com JavaScript, HTML e CSS.
+- **Projetos Web:** Aplicações e experimentos desenvolvidos com Java, JavaScript, HTML e CSS.
 - **Desenvolvimento Back-end:** Contribuições em aplicações desenvolvidas por uma equipe em outras linguagens de programação e ferramentas back-end com um bancos de dados SQL.
 
 ## Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais estou trabalhando atualmente:
 
-- **JavaScript**
-- **HTML**
-- **CSS**
+- **SQL**
 
 ## Sobre Mim
 
